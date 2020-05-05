@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Feb 2020 22:04:28 at http://kyle.malyarchuk.space/index-particles.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kyle.malyarchuk.space/index-particles.html -O1 "C:\My Web Sites\port" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:27	Warning: 	Retry after error -4 (No data (connection closed)) at link kyle.malyarchuk.space/img/blog/img-3.jpg (from kyle.malyarchuk.space/index-particles.html)
+22:16:20	Warning: 	Retry after error -2 (Receive Time Out) at link kyle.malyarchuk.space/preview/img/preview/3.png (from kyle.malyarchuk.space/index.html)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.eot (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.eot? (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.woff2 (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.woff (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.ttf (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/fonts/glyphicons-halflings-regular.svg (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/css/fonts/slick.eot (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/css/fonts/slick.eot? (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/css/fonts/slick.woff (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/css/fonts/slick.ttf (from kyle.malyarchuk.space/preview/css/plugins.css)
+22:16:29	Error: 	"Failed Dependency" (424) at link kyle.malyarchuk.space/preview/css/fonts/slick.svg (from kyle.malyarchuk.space/preview/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 7 seconds : 141 links scanned, 127 files written (17628841 bytes overall) [14803309 bytes received at 20362 bytes/sec], 3940123 bytes transferred using HTTP compression in 48 files, ratio 26%, 2.5 requests per connection
+(11 errors, 2 warnings, 0 messages)
